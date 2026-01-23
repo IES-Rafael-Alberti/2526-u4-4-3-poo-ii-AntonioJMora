@@ -13,36 +13,32 @@ Apóyate en los siguientes recursos para realizar la práctica:
 
 ## Identificación de la Actividad
 
-- **ID de la Actividad:** [ID de la actividad]
-- **Módulo:** [Nombre del módulo] (`PROG`, `IS`, `EDES`, etc.)
-- **Unidad de Trabajo:** [Número y nombre de la unidad de trabajo]
-- **Fecha de Creación:** [Fecha de creación]
-- **Fecha de Entrega:** [Fecha de entrega]
+- **ID de la Actividad:** Ejercicios POO II
+- **Módulo:** PROG
+- **Unidad de Trabajo:** Tema 4
+- **Fecha de Creación:** 19 enero
+- **Fecha de Entrega:** 23 enero
 - **Alumno(s):**
-  - **Nombre y Apellidos:** [Nombre y Apellidos del alumno o integrantes del grupo]
-  - **Correo electrónico:** [Correo electrónico g.educaand.es]
-  - **Iniciales del Alumno/Grupo:** [Iniciales del alumno o del grupo]
+  - **Nombre y Apellidos:** Antonio Jesús Mora Cabeza
+  - **Correo electrónico:** nmorcab2106@g.educaand.es
+  - **Iniciales del Alumno/Grupo:** AJMC
 
 ## Descripción de la Actividad
 
-[Descripción detallada de la actividad, objetivos, y contexto necesario para comprenderla. Explicar en qué consiste la actividad y qué se espera que el alumno desarrolle o implemente.]
-
+Creación de varias actividades de POO 
 ## Instrucciones de Compilación y Ejecución
 
 1. **Requisitos Previos:**
 
-   - [Lenguaje de programación y versión]
-   - [Entorno de desarrollo o dependencias necesarias]
+   - Kotlin
+   - Intellij Idea
 2. **Pasos para Compilar el Código:**
 
-   ```bash
-   [Comando para compilar el código]
-   ```
+ Desde el IDE
 3. **Pasos para Ejecutar el Código:**
 
-   ```bash
-   [Comando para ejecutar la aplicación]
-   ```
+   Darle a ejecutar
+
 4. **Ejecución de Pruebas:**
 
    ```bash
@@ -53,11 +49,15 @@ Apóyate en los siguientes recursos para realizar la práctica:
 
 ### Descripción del Desarrollo
 
-[Explicación de cómo se ha abordado el desarrollo de la actividad, incluyendo las decisiones de diseño, estructura del código y enfoque de resolución de problemas. Se recomienda adjuntar diagramas o capturas de pantalla si es necesario.]
-
+Se han realizado todas las actividades, ayudandome de google
 ### Código Fuente
 
-[Aquí se incluirá un enlace directo a los archivos de código fuente en el repositorio, por ejemplo, si se está usando GitHub: `src/main.kt` o algún enlace directo.]
+Ejercicio 1 https://github.com/IES-Rafael-Alberti/2526-u4-4-3-poo-ii-AntonioJMora/blob/master/src/main/kotlin/org/iesra/ejercicio1/Main1.kt
+Ejercicio 2 https://github.com/IES-Rafael-Alberti/2526-u4-4-3-poo-ii-AntonioJMora/blob/master/src/main/kotlin/org/iesra/ejercicio2/Main2.kt
+Ejercicio 3 https://github.com/IES-Rafael-Alberti/2526-u4-4-3-poo-ii-AntonioJMora/blob/master/src/main/kotlin/org/iesra/ejercicio3/Main3.kt
+Ejercicio 4 https://github.com/IES-Rafael-Alberti/2526-u4-4-3-poo-ii-AntonioJMora/blob/master/src/main/kotlin/org/iesra/ejercicio4/Main4.kt
+Ejercicio 5 https://github.com/IES-Rafael-Alberti/2526-u4-4-3-poo-ii-AntonioJMora/blob/master/src/main/kotlin/org/iesra/Main5.kt
+
 
 [Si hay varios ejercicios, habrá una documentación, por cada uno de los ejercicios.]
 [Por cada ejercicio, habrá enlaces embebidos de código a las clases principales y programa principal `main` ]
@@ -78,8 +78,7 @@ Apóyate en los siguientes recursos para realizar la práctica:
 
 ## Conclusiones
 
-[Resumen de las conclusiones alcanzadas al desarrollar la actividad, las lecciones aprendidas, y posibles mejoras que se puedan implementar en futuras entregas.]
-
+Se ha aprendido bastante sobre estos ejercicios, el que más me ha costado ha sido el 3 en raya que para ser sincero, he tenido que recurrir a la IA para ayudarme a hacerlo en partes, prefiero decir la verdad a mentir sobre lo hecho.
 ## Referencias y Fuentes
 
 [Aquí se listarán las fuentes consultadas para el desarrollo de la actividad, tales como documentación oficial, artículos, o cualquier recurso externo relevante.]
