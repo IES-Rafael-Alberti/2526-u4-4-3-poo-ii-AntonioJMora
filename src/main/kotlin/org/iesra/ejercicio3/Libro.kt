@@ -1,4 +1,4 @@
-package org.iesra
+package org.iesra.ejercicio3
 
 class Libro(val titulo: String, val autor: String, val numPag: Int, var calificacion: Int) {
     init {

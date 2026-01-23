@@ -1,6 +1,6 @@
-package org.iesra
+package org.iesra.ejercicio3
 
-import org.iesra.ejercicio2.logger
+import org.iesra.ejercicio3.logger
 
 class ConjuntoLibros(private val capacidad: Int) {
     val libros: Array<Libro?> = arrayOfNulls(capacidad)

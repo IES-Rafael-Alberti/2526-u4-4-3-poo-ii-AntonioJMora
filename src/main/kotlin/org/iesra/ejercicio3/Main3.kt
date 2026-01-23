@@ -1,4 +1,9 @@
-package org.iesra
+package org.iesra.ejercicio3
+
+import org.slf4j.LoggerFactory
+
+val logger = LoggerFactory.getLogger("Ejercicio4.8")
+
 
 fun main(){
     val conjunto = ConjuntoLibros(3)
