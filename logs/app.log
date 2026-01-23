@@ -46,3 +46,46 @@
 2026-01-23 19:31:59 INFO  Ejercicio4.7 - Cuenta 1 -> Saldo: 900.0
 2026-01-23 19:31:59 INFO  Ejercicio4.7 - Cuenta 2 -> Saldo: 150.0
 2026-01-23 19:31:59 INFO  Ejercicio4.7 - La persona es morosa?: false
+2026-01-23 20:14:20 INFO  Ejercicio4.7 - Contenido del conjunto
+2026-01-23 20:14:20 INFO  Ejercicio4.7 - El conjunto de libros está vacío
+2026-01-23 20:14:20 INFO  Ejercicio4.7 - No hay libros en el conjunto
+2026-01-23 20:14:20 INFO  Ejercicio4.7 - No hay libros en el conjunto
+2026-01-23 20:14:20 INFO  Ejercicio4.7 - Contenido del conjunto
+2026-01-23 20:14:20 INFO  Ejercicio4.7 - El conjunto de libros está vacío
+2026-01-23 20:14:20 INFO  Ejercicio4.7 - Contenido del conjunto
+2026-01-23 20:14:20 INFO  Ejercicio4.7 - El conjunto de libros está vacío
+2026-01-23 20:14:20 INFO  Ejercicio4.7 - Contenido del conjunto
+2026-01-23 20:14:20 INFO  Ejercicio4.7 - El conjunto de libros está vacío
+2026-01-23 20:18:23 INFO  Ejercicio4.7 - Contenido del conjunto
+2026-01-23 20:18:23 INFO  Ejercicio4.7 - org.iesra.Libro@769e7ee8
+2026-01-23 20:18:23 INFO  Ejercicio4.7 - org.iesra.Libro@5276e6b0
+2026-01-23 20:18:23 INFO  Ejercicio4.7 - Libro con mayor calificacion = org.iesra.Libro@769e7ee8
+2026-01-23 20:18:23 INFO  Ejercicio4.7 - Libro con menor calificacion = org.iesra.Libro@5276e6b0
+2026-01-23 20:18:23 INFO  Ejercicio4.7 - Contenido del conjunto
+2026-01-23 20:18:23 INFO  Ejercicio4.7 - org.iesra.Libro@769e7ee8
+2026-01-23 20:18:23 INFO  Ejercicio4.7 - Contenido del conjunto
+2026-01-23 20:18:23 INFO  Ejercicio4.7 - El conjunto de libros está vacío
+2026-01-23 20:18:23 INFO  Ejercicio4.7 - Contenido del conjunto
+2026-01-23 20:18:23 INFO  Ejercicio4.7 - org.iesra.Libro@71b1176b
+2026-01-23 20:19:22 INFO  Ejercicio4.7 - Contenido del conjunto
+2026-01-23 20:19:22 INFO  Ejercicio4.7 - Título: Invisible | Autor: Eloy Moreno | Páginas: 500 | Calificación: 10
+2026-01-23 20:19:22 INFO  Ejercicio4.7 - Título: Redes | Autor: Eloy Moreno2 | Páginas: 600 | Calificación: 9
+2026-01-23 20:19:22 INFO  Ejercicio4.7 - Libro con mayor calificacion = Título: Invisible | Autor: Eloy Moreno | Páginas: 500 | Calificación: 10
+2026-01-23 20:19:22 INFO  Ejercicio4.7 - Libro con menor calificacion = Título: Redes | Autor: Eloy Moreno2 | Páginas: 600 | Calificación: 9
+2026-01-23 20:19:22 INFO  Ejercicio4.7 - Contenido del conjunto
+2026-01-23 20:19:22 INFO  Ejercicio4.7 - Título: Invisible | Autor: Eloy Moreno | Páginas: 500 | Calificación: 10
+2026-01-23 20:19:22 INFO  Ejercicio4.7 - Contenido del conjunto
+2026-01-23 20:19:22 INFO  Ejercicio4.7 - El conjunto de libros está vacío
+2026-01-23 20:19:22 INFO  Ejercicio4.7 - Contenido del conjunto
+2026-01-23 20:19:22 INFO  Ejercicio4.7 - Título: Naruto | Autor: Masashi Kishimoto | Páginas: 1000 | Calificación: 10
+2026-01-23 20:20:06 INFO  Ejercicio4.7 - Contenido del conjunto
+2026-01-23 20:20:06 INFO  Ejercicio4.7 - Título: Invisible | Autor: Eloy Moreno | Páginas: 500 | Calificación: 10
+2026-01-23 20:20:06 INFO  Ejercicio4.7 - Título: Redes | Autor: Eloy Moreno2 | Páginas: 600 | Calificación: 9
+2026-01-23 20:20:06 INFO  Ejercicio4.7 - Libro con mayor calificacion = Invisible
+2026-01-23 20:20:06 INFO  Ejercicio4.7 - Libro con menor calificacion = Redes
+2026-01-23 20:20:06 INFO  Ejercicio4.7 - Contenido del conjunto
+2026-01-23 20:20:06 INFO  Ejercicio4.7 - Título: Invisible | Autor: Eloy Moreno | Páginas: 500 | Calificación: 10
+2026-01-23 20:20:06 INFO  Ejercicio4.7 - Contenido del conjunto
+2026-01-23 20:20:06 INFO  Ejercicio4.7 - El conjunto de libros está vacío
+2026-01-23 20:20:06 INFO  Ejercicio4.7 - Contenido del conjunto
+2026-01-23 20:20:06 INFO  Ejercicio4.7 - Título: Naruto | Autor: Masashi Kishimoto | Páginas: 1000 | Calificación: 10

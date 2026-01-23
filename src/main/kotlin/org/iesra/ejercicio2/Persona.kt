@@ -1,4 +1,4 @@
-package org.iesra
+package org.iesra.ejercicio2
 
 class Persona(val dni : String) {
     val cuentas : Array<Cuenta?> = arrayOfNulls(3)

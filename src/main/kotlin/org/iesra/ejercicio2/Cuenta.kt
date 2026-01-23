@@ -1,4 +1,4 @@
-package org.iesra
+package org.iesra.ejercicio2
 
 class Cuenta(val numeroCuenta : Int, private var saldo : Double) {
     fun consultarSaldo() : Double{

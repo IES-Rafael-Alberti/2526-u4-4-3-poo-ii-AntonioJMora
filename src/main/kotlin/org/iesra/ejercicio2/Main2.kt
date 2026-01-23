@@ -1,4 +1,4 @@
-package org.iesra
+package org.iesra.ejercicio2
 
 import org.slf4j.LoggerFactory
 
