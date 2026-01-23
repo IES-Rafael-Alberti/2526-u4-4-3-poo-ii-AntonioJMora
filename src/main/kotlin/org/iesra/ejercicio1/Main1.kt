@@ -1,7 +1,6 @@
-package org.iesra
+package org.iesra.ejercicio1
 
 import org.slf4j.LoggerFactory
-import kotlin.math.log
 
 val logger = LoggerFactory.getLogger("Ejercicio4.6")
 

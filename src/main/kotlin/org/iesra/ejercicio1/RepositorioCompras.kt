@@ -1,4 +1,4 @@
-package org.iesra
+package org.iesra.ejercicio1
 
 class RepositorioCompras {
     private val compras = mutableListOf<Compra>()
