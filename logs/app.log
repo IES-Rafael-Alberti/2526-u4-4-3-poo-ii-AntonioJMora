@@ -1,9 +1,9 @@
-2026-01-20 11:53:18 DEBUG MiAplicacion - Mensaje DEBUG
-2026-01-20 11:53:18 INFO  MiAplicacion - Mensaje INFO
-2026-01-20 11:53:18 WARN  MiAplicacion - Mensaje WARN
-2026-01-20 11:53:18 ERROR MiAplicacion - Mensaje ERROR
-2026-01-20 11:54:10 TRACE MiAplicacion - Mensaje TRACE
-2026-01-20 11:54:10 DEBUG MiAplicacion - Mensaje DEBUG
-2026-01-20 11:54:10 INFO  MiAplicacion - Mensaje INFO
-2026-01-20 11:54:10 WARN  MiAplicacion - Mensaje WARN
-2026-01-20 11:54:10 ERROR MiAplicacion - Mensaje ERROR
+2026-01-23 18:46:43 INFO  Ejercicio4.6 - Domicilio: Avefría 21
+2026-01-23 18:46:43 INFO  Ejercicio4.6 - Domicilio: Teatro 16
+2026-01-23 18:46:43 INFO  Ejercicio4.6 - Domicilio: Pabellon 12
+2026-01-23 18:48:10 INFO  Ejercicio4.6 - Persona: Antonio Mora
+2026-01-23 18:48:10 INFO  Ejercicio4.6 - Domicilio: Avefría 21
+2026-01-23 18:48:10 INFO  Ejercicio4.6 - Persona: Antonio Mora
+2026-01-23 18:48:10 INFO  Ejercicio4.6 - Domicilio: Teatro 16
+2026-01-23 18:48:10 INFO  Ejercicio4.6 - Persona: Antonio Mora
+2026-01-23 18:48:10 INFO  Ejercicio4.6 - Domicilio: Pabellon 12
